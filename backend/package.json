@@ -1,7 +1,10 @@
 {
   "name": "backend",
   "version": "1.0.0",
+<<<<<<< HEAD
   "type": "commonjs",
+=======
+>>>>>>> 5d41587588fb608497acbb3a2238024ffd494efb
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +16,11 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
+<<<<<<< HEAD
     "lowdb": "^1.0.0",
+=======
+    "lowdb": "^3.0.0",
+>>>>>>> 5d41587588fb608497acbb3a2238024ffd494efb
     "sentiment": "^5.0.2"
   }
 }
